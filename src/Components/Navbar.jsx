@@ -71,14 +71,7 @@ function Navbar() {
 									Testing
 								</NavLink>
 							</li>
-							<li>
-								<NavLink
-									to="plan/"
-									className="block py-2 pl-3 pr-4 text-white  rounded md:bg-transparent  md:p-0 hover:text-blue-600"
-									aria-current="page">
-									Travel plan
-								</NavLink>
-							</li>
+							
 						</ul>
 					</div>
 				</div>
