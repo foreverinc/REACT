@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a.active{
+    background-color: gray;
+    padding: .2rem 1rem;
+    color: black;
+}
